@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "https://banking6.github.io/program-berhadiah-bjb/static/css/main.2a9c7d0d.css",
+    "main.js": "https://banking6.github.io/program-berhadiah-bjb/static/js/main.e2e7d19a.js",
+    "static/js/453.797071c6.chunk.js": "https://banking6.github.io/program-berhadiah-bjb/static/js/453.797071c6.chunk.js",
+    "static/media/img5.jpg": "https://banking6.github.io/program-berhadiah-bjb/static/media/img5.9b0e337038ae75f2dd58.jpg",
+    "static/media/img4.jpg": "https://banking6.github.io/program-berhadiah-bjb/static/media/img4.cfe81d0ebd6231d47e1e.jpg",
+    "static/media/img2.png": "https://banking6.github.io/program-berhadiah-bjb/static/media/img2.ed581dbbff4de76eac10.png",
+    "static/media/img3.jpeg": "https://banking6.github.io/program-berhadiah-bjb/static/media/img3.476aa08f41e4ea63b1a8.jpeg",
+    "index.html": "https://banking6.github.io/program-berhadiah-bjb/index.html",
+    "main.2a9c7d0d.css.map": "https://banking6.github.io/program-berhadiah-bjb/static/css/main.2a9c7d0d.css.map",
+    "main.e2e7d19a.js.map": "https://banking6.github.io/program-berhadiah-bjb/static/js/main.e2e7d19a.js.map",
+    "453.797071c6.chunk.js.map": "https://banking6.github.io/program-berhadiah-bjb/static/js/453.797071c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a9c7d0d.css",
+    "static/js/main.e2e7d19a.js"
+  ]
+}

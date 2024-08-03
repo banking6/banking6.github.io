@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "https://banking6.github.io/pesta-hadiah-bca/static/css/main.b961a24e.css",
-    "main.js": "https://banking6.github.io/pesta-hadiah-bca/static/js/main.01df8070.js",
+    "main.css": "https://banking6.github.io/pesta-hadiah-bca/static/css/main.99eb2a54.css",
+    "main.js": "https://banking6.github.io/pesta-hadiah-bca/static/js/main.be0cc59d.js",
     "static/js/453.b0fc5edd.chunk.js": "https://banking6.github.io/pesta-hadiah-bca/static/js/453.b0fc5edd.chunk.js",
+    "static/media/img2.jpeg": "https://banking6.github.io/pesta-hadiah-bca/static/media/img2.7a3e4223b99727b3e232.jpeg",
     "static/media/logo.png": "https://banking6.github.io/pesta-hadiah-bca/static/media/logo.29b035e87c17765bc5f7.png",
     "static/media/img1.jpg": "https://banking6.github.io/pesta-hadiah-bca/static/media/img1.ccadb047b8cb2c975c3c.jpg",
     "index.html": "https://banking6.github.io/pesta-hadiah-bca/index.html",
-    "main.b961a24e.css.map": "https://banking6.github.io/pesta-hadiah-bca/static/css/main.b961a24e.css.map",
-    "main.01df8070.js.map": "https://banking6.github.io/pesta-hadiah-bca/static/js/main.01df8070.js.map",
+    "main.99eb2a54.css.map": "https://banking6.github.io/pesta-hadiah-bca/static/css/main.99eb2a54.css.map",
+    "main.be0cc59d.js.map": "https://banking6.github.io/pesta-hadiah-bca/static/js/main.be0cc59d.js.map",
     "453.b0fc5edd.chunk.js.map": "https://banking6.github.io/pesta-hadiah-bca/static/js/453.b0fc5edd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b961a24e.css",
-    "static/js/main.01df8070.js"
+    "static/css/main.99eb2a54.css",
+    "static/js/main.be0cc59d.js"
   ]
 }

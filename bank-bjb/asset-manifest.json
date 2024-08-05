@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://banking6.github.io/bank-bjb/static/css/main.2a9c7d0d.css",
-    "main.js": "https://banking6.github.io/bank-bjb/static/js/main.64cd0f7c.js",
+    "main.js": "https://banking6.github.io/bank-bjb/static/js/main.53647fa4.js",
     "static/js/453.797071c6.chunk.js": "https://banking6.github.io/bank-bjb/static/js/453.797071c6.chunk.js",
     "static/media/img5.jpg": "https://banking6.github.io/bank-bjb/static/media/img5.9b0e337038ae75f2dd58.jpg",
     "static/media/img4.jpg": "https://banking6.github.io/bank-bjb/static/media/img4.cfe81d0ebd6231d47e1e.jpg",
@@ -9,11 +9,11 @@
     "static/media/img3.jpeg": "https://banking6.github.io/bank-bjb/static/media/img3.476aa08f41e4ea63b1a8.jpeg",
     "index.html": "https://banking6.github.io/bank-bjb/index.html",
     "main.2a9c7d0d.css.map": "https://banking6.github.io/bank-bjb/static/css/main.2a9c7d0d.css.map",
-    "main.64cd0f7c.js.map": "https://banking6.github.io/bank-bjb/static/js/main.64cd0f7c.js.map",
+    "main.53647fa4.js.map": "https://banking6.github.io/bank-bjb/static/js/main.53647fa4.js.map",
     "453.797071c6.chunk.js.map": "https://banking6.github.io/bank-bjb/static/js/453.797071c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a9c7d0d.css",
-    "static/js/main.64cd0f7c.js"
+    "static/js/main.53647fa4.js"
   ]
 }

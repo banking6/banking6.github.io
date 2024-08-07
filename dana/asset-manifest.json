@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://banking6.github.io/dana/static/css/main.fef05d4e.css",
-    "main.js": "https://banking6.github.io/dana/static/js/main.c895ab93.js",
+    "main.js": "https://banking6.github.io/dana/static/js/main.a722d6f4.js",
     "static/js/453.814d7853.chunk.js": "https://banking6.github.io/dana/static/js/453.814d7853.chunk.js",
     "static/media/logo.png": "https://banking6.github.io/dana/static/media/logo.9c688f64557e27f5b6b4.png",
     "static/media/img5.png": "https://banking6.github.io/dana/static/media/img5.c6b49ad21e0d54f7f95a.png",
@@ -9,11 +9,11 @@
     "static/media/img2.png": "https://banking6.github.io/dana/static/media/img2.41600cf8145f35ba950e.png",
     "index.html": "https://banking6.github.io/dana/index.html",
     "main.fef05d4e.css.map": "https://banking6.github.io/dana/static/css/main.fef05d4e.css.map",
-    "main.c895ab93.js.map": "https://banking6.github.io/dana/static/js/main.c895ab93.js.map",
+    "main.a722d6f4.js.map": "https://banking6.github.io/dana/static/js/main.a722d6f4.js.map",
     "453.814d7853.chunk.js.map": "https://banking6.github.io/dana/static/js/453.814d7853.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fef05d4e.css",
-    "static/js/main.c895ab93.js"
+    "static/js/main.a722d6f4.js"
   ]
 }
